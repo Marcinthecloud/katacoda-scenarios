@@ -4,7 +4,7 @@
     "icon": "fa-katacoda",
     "courses": [
       {
-        "course_id": "SAI-Demo",
+        "course_id": "sai-demo",
         "title": "Try It Out: Storage Attached Indexing",
         "description": "Learn how to use and operate Storage Attached Indexing"
       }
