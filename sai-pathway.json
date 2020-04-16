@@ -1,0 +1,12 @@
+{
+    "title": "Storage Attached Indexing - First Look",
+    "description": "Learn how to use our new secondary indexing replacement!",
+    "icon": "fa-katacoda",
+    "courses": [
+      {
+        "course_id": "SAI-Demo",
+        "title": "Try It Out: Storage Attached Indexing",
+        "description": "Learn how to use and operate Storage Attached Indexing"
+      }
+    ]
+}
